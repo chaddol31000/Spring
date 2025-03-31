@@ -1,0 +1,39 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Java
+*.class
+*.jar
+*.war
+*.zip
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# OS-specific files
+# Windows
+Thumbs.db
+Desktop.ini
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+
+# Other
+*.out
+
